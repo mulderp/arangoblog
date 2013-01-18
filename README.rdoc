@@ -1,0 +1,2 @@
+= Basic Blog with Ashikawa/ArangoDB
+
